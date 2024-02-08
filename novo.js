@@ -1,1 +1,1 @@
-console.log ("teste novo")
+console.log("teste novo")
